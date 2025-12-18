@@ -51,15 +51,23 @@ The output image will be saved as:
 4. The output image will be saved as:
    sea_level_plot.png
 
+---
+
 📈 Data Source
+
 Global Average Absolute Sea Level Change (1880–2014)
 Provided by the U.S. Environmental Protection Agency (EPA) using data from CSIRO and NOAA.
 
+---
+
 🧪 Testing
+
 Unit tests are provided by freeCodeCamp in test_module.py.
 All tests must pass before submission.
 
+---
+
 👩‍💻 Author
-Vishakha Tamboli 🚀
-Data Analyst | Python Developer
+Vishakha Tamboli 
+Aspiring Data Scientist | Python Developer
 
